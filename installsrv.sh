@@ -32,7 +32,7 @@ echo "Your login will be saved in 'variables.sh'."
 # Ask user if they would like to install the server directly
 read -p "Do you want to install the server? (Yes No): " choice
 
-# Überprüfen, ob die Benutzereingabe "ja" ist
+# Check if the user input is "yes".
 if [ "$choice" == "Yes" ]; then
     echo "Installation is starting..."
     sudo ./updateserver.sh
