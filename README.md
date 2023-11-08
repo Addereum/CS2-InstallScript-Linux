@@ -6,6 +6,7 @@
 
 ```shell
 chmod 777 installsrv.sh && chmod 777 updateserver.sh && chmod 777 && variables.sh
+```
 
 
 EN:
