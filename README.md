@@ -13,7 +13,7 @@ EN:
 1. Download or clone the repository.
 2. Unpack the Archive.
 3. Change directory in the folder.
-4. Führe `./installsrv` aus.
+4. Execute `./installsrv`.
 
 DE: 
 1. Lade das Repository herunter oder klone das Git-Repository.
